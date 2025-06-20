@@ -26,7 +26,7 @@ A responsive and dynamic Quiz App built using **HTML**, **CSS**, and **JavaScrip
 
 ## 📂 Folder Structure
 
-📌 Live Demo
+📌 Live Demo[https://app.netlify.com/projects/interactive-quiz-ap/overview]
 🔗 View Live Project
 
 🙋‍♂️ Author
