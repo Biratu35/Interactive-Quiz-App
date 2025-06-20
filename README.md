@@ -32,7 +32,7 @@ A responsive and dynamic Quiz App built using **HTML**, **CSS**, and **JavaScrip
 🙋‍♂️ Author
 Biratu Lemessa
 📧 lemessabiratu@gmail.com
-🌐 My Portfolio
+🌐 My Portfolio[https://biratu-portfolio-website.netlify.app/]
 
 ⭐️ Show Your Support
 If you like this project, please ⭐ the repo and share it with friends!
