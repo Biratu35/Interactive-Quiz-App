@@ -21,8 +21,8 @@ A responsive and dynamic Quiz App built using **HTML**, **CSS**, and **JavaScrip
 ## 📸 Screenshots
 
 ![Quiz Start]([screenshots/start.png](https://raw.githubusercontent.com/Biratu35/Interactive-Quiz-App/refs/heads/main/Screenshot%202025-06-20%20143815.jpg))
-![Question Example](screenshots/question.png)
-![Result Screen](screenshots/result.png)
+![Question Example]([screenshots/question.png](https://raw.githubusercontent.com/Biratu35/Interactive-Quiz-App/refs/heads/main/Screenshot%202025-06-20%20143912.jpg))
+![Result Screen]([screenshots/result.png](https://raw.githubusercontent.com/Biratu35/Interactive-Quiz-App/refs/heads/main/Screenshot%202025-06-20%20143938.jpg))
 
 ## 📂 Folder Structure
 
