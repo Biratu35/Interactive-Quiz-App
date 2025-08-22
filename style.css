@@ -2,7 +2,7 @@
 * { box-sizing: border-box; margin: 0; padding: 0; }
 body {
   font-family: 'Segoe UI', sans-serif;
-  background: #f5f7fa;
+   background: url("https://raw.githubusercontent.com/Biratu35/Interactive-Quiz-App/refs/heads/main/photo_2025-07-14_14-52-48.jpg") no-repeat center center / cover;
   display: flex;
   justify-content: center;
   align-items: center;
@@ -81,4 +81,11 @@ body {
 @media (max-width: 480px) {
   .quiz-box { padding: 1.5rem; }
   .btn { font-size: .9rem; }
+}
+body::before {
+  content: "";
+  position: absolute;
+  top: 0; left: 0; right: 0; bottom: 0;
+  background: rgba(0, 0, 0, 0.3); /* dark overlay */
+  z-index: -1;
 }
